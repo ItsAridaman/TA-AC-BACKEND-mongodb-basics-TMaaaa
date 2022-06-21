@@ -163,6 +163,8 @@ db.users.insertMany([
     sports: ["football", "cricket", "TT"],
   },
 ]);
+
+// .............
 ```
 
 Insert above data into database to perform below queries:-
